@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerApp</string>
+    <string name="welcome_lable">welcome to recyclerView app</string>
+    <string name="welcome_label">welcome</string>
+    <string name="welcome">welcome</string>
+</resources>
